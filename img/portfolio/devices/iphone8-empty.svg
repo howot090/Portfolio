@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="730px" viewBox="0 0 360 730" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>iphone8-empty</title>
+    <desc>Created with Sketch.</desc>
+    <g id="phone-and-comp-mockup" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iphone_8" transform="translate(-219.000000, -90.000000)">
+            <g id="iphone8-empty" transform="translate(219.000000, 90.000000)">
+                <rect id="Rectangle" fill="#CCCCCC" x="0" y="96" width="7" height="28" rx="3"></rect>
+                <rect id="Rectangle-Copy" fill="#CCCCCC" x="0" y="158" width="7" height="53" rx="3"></rect>
+                <rect id="Rectangle-Copy" fill="#CCCCCC" x="0" y="224" width="7" height="53" rx="3"></rect>
+                <path d="M68.3790726,1.5 C47.8786957,1.5 38.9961242,3.21530368 29.7978328,8.13460374 C21.7481244,12.4396349 15.4396349,18.7481244 11.1346037,26.7978328 C6.21530368,35.9961242 4.5,44.8786957 4.5,65.3790726 L4.5,664.620927 C4.5,685.121304 6.21530368,694.003876 11.1346037,703.202167 C15.4396349,711.251876 21.7481244,717.560365 29.7978328,721.865396 C38.9961242,726.784696 47.8786957,728.5 68.3790726,728.5 L290.620927,728.5 C311.121304,728.5 320.003876,726.784696 329.202167,721.865396 C337.251876,717.560365 343.560365,711.251876 347.865396,703.202167 C352.784696,694.003876 354.5,685.121304 354.5,664.620927 L354.5,65.3790726 C354.5,44.8786957 352.784696,35.9961242 347.865396,26.7978328 C343.560365,18.7481244 337.251876,12.4396349 329.202167,8.13460374 C320.003876,3.21530368 311.121304,1.5 290.620927,1.5 L68.3790726,1.5 Z M24.2009646,89.4657321 L334.799035,89.4657321 L334.799035,640.534268 L24.2009646,640.534268 L24.2009646,89.4657321 Z" id="Combined-Shape" stroke="#CCCCCC" stroke-width="3" fill="#FFFFFF"></path>
+                <circle id="Oval" fill="#CCCCCC" cx="125" cy="48" r="5"></circle>
+                <rect id="Rectangle" fill="#CCCCCC" x="150" y="44" width="64" height="7" rx="3"></rect>
+                <circle id="Oval" stroke="#CCCCCC" stroke-width="3" cx="181.5" cy="681.5" r="27.5"></circle>
+                <rect id="Rectangle-Copy-2" fill="#CCCCCC" x="353" y="157" width="7" height="55" rx="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
